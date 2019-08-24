@@ -1,4 +1,4 @@
 .idea
-datastructures.iml
+*.iml
 target
 build
